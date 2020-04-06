@@ -1,0 +1,8 @@
+data types:
+function:
+type(<your_data>)
+#list type( [1,2,3,4])
+#string type("ahmed")
+#string type("9")
+#integer type(9)
+#float type(10.9)
