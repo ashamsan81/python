@@ -9,3 +9,4 @@ type(<your_data>)
 #float type(10.9)
 #dictionary type({"key1": 1, "key2": 2}
 #boolean type(2 == 2)
+#get the reserved keywords in python help("keywords")
