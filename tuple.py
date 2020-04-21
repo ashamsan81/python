@@ -20,3 +20,9 @@ print(type(MyBTuple))
 print(type(MyCTuple))
 print(myATuple)
 print(MyBTuple[-1])
+
+# concatenation
+conTuple = myATuple + oneItemTuple
+print(conTuple)
+conTuple2 = MyCTuple + "Two", "Tree" + oneItemTuple
+print(conTuple2)
