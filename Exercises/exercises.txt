@@ -1,0 +1,25 @@
+#########################  Exercise #   #########################
+
+#################################################################
+
+#########################  Exercise 1   #########################
+Create a python program that will have a tuple within written number from 0 to 20, i.e:
+my_tuple = ('Zero', 'One', 'Two'....'Twenty')
+Your program will ask for an int number from 0 to 20 and it will show the written number, i.e:
+ 
+-----------
+Enter a number: 
+3
+The number is, three.
+#################################################################
+
+#########################  Exercise 2   #########################
+    Create a tuple with all the 20 teams from the Premier League table, and show:
+1) Only the top 5.
+2) Only the last 4.
+3) A list of all teams in alphabetic order
+4) In what position the Manchester City is
+
+you can find the table on their official website: https://www.premierleague.com/
+
+#################################################################
