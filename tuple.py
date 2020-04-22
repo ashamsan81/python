@@ -46,6 +46,3 @@ print(a)
 print(b)
 print(c)
 
-myNumTuple = "zero", "one", "two", "three", "four"
-g = input("Enter number: ")
-print(myNumTuple[int(g)])
