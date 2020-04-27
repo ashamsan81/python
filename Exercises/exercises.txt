@@ -23,3 +23,9 @@ The number is, three.
 you can find the table on their official website: https://www.premierleague.com/
 
 #################################################################
+
+#########################  Exercise 3   #########################
+
+Slice email address into two parts, 
+the user name part and the domain part
+#################################################################
