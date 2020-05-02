@@ -36,3 +36,9 @@ the user name part and the domain part
 calculate user's age in months/days/hours/ based on users choice
 and make sure age input is valid
 #################################################################
+
+#########################  Exercise 5   #########################
+Create a list based on user's entery, no limit for the list items
+when user type 1 you prompt user to add more items
+and when user type 0 it exits 
+#################################################################
