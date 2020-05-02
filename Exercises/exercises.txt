@@ -21,7 +21,9 @@ The number is, three.
 4) In what position the Manchester City is
 
 you can find the table on their official website: https://www.premierleague.com/
-
+# enhancements:
+add user's choice to choose the top/last or (all teams in alphapet order)
+add number infront of each team that printed out represent its order
 #################################################################
 
 #########################  Exercise 3   #########################
