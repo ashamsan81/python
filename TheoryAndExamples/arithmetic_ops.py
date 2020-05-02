@@ -10,7 +10,6 @@
 # [//] Floor Division
 #-------------------------------------
 # Examples
-
 print(15 % 2) # 1 so it is the remaining 
 print(2 ** 5) # 32 2 * 2 * 2 * 2 * 2
 print(110 // 20) # 5 the division without remaining 

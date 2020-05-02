@@ -29,3 +29,8 @@ you can find the table on their official website: https://www.premierleague.com/
 Slice email address into two parts, 
 the user name part and the domain part
 #################################################################
+
+#########################  Exercise 4   #########################
+calculate user's age in months/days/hours/ based on users choice
+and make sure age input is valid
+#################################################################
